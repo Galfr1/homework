@@ -1,0 +1,15 @@
+/Users/galfried/Projects/homework-11.9-ex4-school/homework-11.9-ex4-school/bin/Debug/net6.0/homework-11.9-ex4-school
+/Users/galfried/Projects/homework-11.9-ex4-school/homework-11.9-ex4-school/bin/Debug/net6.0/homework-11.9-ex4-school.deps.json
+/Users/galfried/Projects/homework-11.9-ex4-school/homework-11.9-ex4-school/bin/Debug/net6.0/homework-11.9-ex4-school.runtimeconfig.json
+/Users/galfried/Projects/homework-11.9-ex4-school/homework-11.9-ex4-school/bin/Debug/net6.0/homework-11.9-ex4-school.dll
+/Users/galfried/Projects/homework-11.9-ex4-school/homework-11.9-ex4-school/bin/Debug/net6.0/homework-11.9-ex4-school.pdb
+/Users/galfried/Projects/homework-11.9-ex4-school/homework-11.9-ex4-school/obj/Debug/net6.0/homework-11.9-ex4-school.csproj.AssemblyReference.cache
+/Users/galfried/Projects/homework-11.9-ex4-school/homework-11.9-ex4-school/obj/Debug/net6.0/homework-11.9-ex4-school.GeneratedMSBuildEditorConfig.editorconfig
+/Users/galfried/Projects/homework-11.9-ex4-school/homework-11.9-ex4-school/obj/Debug/net6.0/homework-11.9-ex4-school.AssemblyInfoInputs.cache
+/Users/galfried/Projects/homework-11.9-ex4-school/homework-11.9-ex4-school/obj/Debug/net6.0/homework-11.9-ex4-school.AssemblyInfo.cs
+/Users/galfried/Projects/homework-11.9-ex4-school/homework-11.9-ex4-school/obj/Debug/net6.0/homework-11.9-ex4-school.csproj.CoreCompileInputs.cache
+/Users/galfried/Projects/homework-11.9-ex4-school/homework-11.9-ex4-school/obj/Debug/net6.0/homework-11.9-ex4-school.dll
+/Users/galfried/Projects/homework-11.9-ex4-school/homework-11.9-ex4-school/obj/Debug/net6.0/refint/homework-11.9-ex4-school.dll
+/Users/galfried/Projects/homework-11.9-ex4-school/homework-11.9-ex4-school/obj/Debug/net6.0/homework-11.9-ex4-school.pdb
+/Users/galfried/Projects/homework-11.9-ex4-school/homework-11.9-ex4-school/obj/Debug/net6.0/homework-11.9-ex4-school.genruntimeconfig.cache
+/Users/galfried/Projects/homework-11.9-ex4-school/homework-11.9-ex4-school/obj/Debug/net6.0/ref/homework-11.9-ex4-school.dll
